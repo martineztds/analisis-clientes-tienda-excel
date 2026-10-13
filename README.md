@@ -34,7 +34,7 @@ Excel (fórmulas, tablas dinámicas, gráficos, formato condicional) y Power Que
 | `Evidencia Respuestas` | Tablas dinámicas de respaldo para cada respuesta |
 | `Gráficos` | Dashboard con 3 visualizaciones (barras, líneas, pastel) |
 | `Dashboard` | Versión interactiva con filtros y KPIs dinámicos |
-| `Conclusiones` | Hallazgos finales y recomendación de negocio |
+| `Conclusiones` | Hallazgos finales |
 
 ## Cómo revisarlo
 
