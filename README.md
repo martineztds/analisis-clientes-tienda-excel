@@ -2,6 +2,8 @@
 
 Análisis de un dataset de 515 registros de una tienda online que opera en el sur de Asia (Afganistán, Bangladesh, India, Nepal, Pakistán y Sri Lanka), con el objetivo de identificar patrones de compra por país, categoría de producto y periodo de tiempo.
 
+![iamge_alt](https://github.com/martineztds/analisis-clientes-tienda-excel/blob/70f7aed83a4430e62c48a010d6814e85568600c4/Dashboard.png)
+
 ## Proceso
 
 1. **Diagnóstico de calidad de datos** — identificación de duplicados, valores vacíos, inconsistencias de formato de texto y fechas mezcladas en distintos formatos regionales.
@@ -13,6 +15,8 @@ Análisis de un dataset de 515 registros de una tienda online que opera en el su
 ## Herramientas usadas
 
 Excel (fórmulas, tablas dinámicas, gráficos, formato condicional) y Power Query.
+
+![iamge-alt](https://github.com/martineztds/analisis-clientes-tienda-excel/blob/6b25eea88f461378116917e91334e92feae5c203/Gr%C3%A1ficos.png)
 
 ## Hallazgos principales
 
