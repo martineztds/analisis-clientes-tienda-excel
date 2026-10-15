@@ -14,6 +14,8 @@ Análisis de un dataset de 515 clientes de una tienda online que opera en el sur
 
 Excel (fórmulas, tablas dinámicas, gráficos, formato condicional) y Power Query.
 
+![iamge-alt](https://github.com/martineztds/analisis-clientes-tienda-excel/blob/6b25eea88f461378116917e91334e92feae5c203/Gr%C3%A1ficos.png)
+
 ## Hallazgos principales
 
 - El total de compras limpio asciende a **$4,786,627**, distribuido entre 484 clientes válidos.
